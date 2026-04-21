@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "NAMULAGAM2.aternos.me",
+    "port": 441144,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "IAM JUST AN AFK BOT",
+        "Subscribe to NOBLEDUDE",
+        "HAVE A GOOD DAY"
       ]
     },
     "chat-log": true,
